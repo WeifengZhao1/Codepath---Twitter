@@ -1,6 +1,6 @@
 # Project 2 - *Twitter*
 
-**Name of your app** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**Twitter** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 ## Twitter Part 2
 Time spent: **3** hours spent in total
